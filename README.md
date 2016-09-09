@@ -10,8 +10,8 @@ Since this is a front end only javascript app you need to be careful about the A
 
 **TODO:**  
 Bugs:  
--429 related bugs, on enter will add object without displaying
--missing GETs
+-429 related bugs, on enter will add object without displaying  
+-missing data on GET calls  
 -closing player above another removes the latter one's stats  
 
 Features:  
