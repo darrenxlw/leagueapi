@@ -6,7 +6,8 @@ The current iteration is still an early stage framework that gets data on the la
 ![screenshot](https://raw.githubusercontent.com/dxlw/intcarry/master/src/screenshot.PNG)
 
 Feel free to fork, edit or do whatever you want with it. 
-Since this is a front end only javascript app you need to be careful about the API key and implement another layer that will also help with caching. The limited rates of the development key will throw a lot of 429s otherwise.
+Since this is a front end only javascript app you need to be careful about the API key and implement another layer that will also help with caching. The limited rates of the development key will throw a lot of 429s otherwise.  
+For more information visit https://developer.riotgames.com
 
 **TODO:**  
 Bugs:  
